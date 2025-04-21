@@ -5,6 +5,7 @@ public class player : MonoBehaviour
 
 //Vai se foder denis
 //vai se foder denis parte 2
+//vai se foder denis parte 3
 
     public float Speed;
     public float JumpForce;
