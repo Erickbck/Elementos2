@@ -3,6 +3,8 @@ using UnityEngine;
 public class player : MonoBehaviour
 {
 
+//Vai se foder denis
+
     public float Speed;
     public float JumpForce;
     
