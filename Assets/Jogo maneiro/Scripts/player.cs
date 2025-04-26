@@ -3,10 +3,7 @@ using UnityEngine;
 public class player : MonoBehaviour
 {
 
-//Vai se foder denis
-//vai se foder denis parte 2
-//vai se foder denis parte 3
-// vai se foder denis 5555
+//dei uma aprimorada legal
 
     public float Speed;
     public float JumpForce;
